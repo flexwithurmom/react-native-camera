@@ -10,9 +10,15 @@ It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and us
 You can support the development of VisionCamera by [sponsoring **@mrousavy** on GitHub](https://github.com/sponsors/mrousavy).
 
 <br />
+<<<<<<< HEAD
 # For 1st commit(br1)
 # For 2nd commit(br1)
 # For 3rd commit(br1)
+=======
+#For 1st commit (br2)
+#For 2nd commit (br2)
+#For 3rd commit (br2)
+>>>>>>> branch2
 <br />
 
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
